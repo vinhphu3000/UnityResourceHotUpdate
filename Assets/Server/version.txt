@@ -1,0 +1,3 @@
+cube,5eb2b24bcbf6a867e585cd11889405a7
+cylinder,487cbb67d0d01df723dd35482205032a
+sphere,fc5eaf7e49eec13ad505287c60ec59ed
